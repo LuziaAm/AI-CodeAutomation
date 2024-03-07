@@ -1,4 +1,7 @@
 .env
-.devcontainer 
+.devcontainer
 .streamlit
 /venv
+
+localhost.py
+localhost_txt2code.py
